@@ -27,9 +27,10 @@ features:
     content: We have our own graphic cards online shop if you are a gamer or a miner
       this is your place.
   right_side:
-  - title: Miners
-    icon: tf-ion-ios-logo-bitcoin
-    content: Tsss
+  - title: Mining
+    icon: tf-ion-ios-diamond-outline
+    content: We use Nano Miner for ETH, NiceHash for Bitcoin and for rest of altcoins
+      we exchange from ethereum or bitcoin according to best trading fees.
   - title: Safe Payment
     icon: tf-ion-ios-logo-paypal
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
