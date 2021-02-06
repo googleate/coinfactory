@@ -30,8 +30,8 @@ features:
   - title: Miners
     icon: tf-ion-ios-logo-bitcoin
     content: Tsss
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
+  - title: Safe Payment
+    icon: tf-ion-ios-logo-paypal
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Easy Pricing
