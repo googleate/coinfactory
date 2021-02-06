@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: Believe in Technology, Make the change
-  content: Do you want Bitcoins? we can produce it. Pay the complete actual price
-    with 20% less and get it in 6 months or pay monthly with the prefixed price.
+  content: Do you want Bitcoins? we can produce it. Pay the actual price minus 20%
+    and get it in 6 months or pay monthly with the prefixed price.
   image: images/coin.png
   button:
     enable: true
