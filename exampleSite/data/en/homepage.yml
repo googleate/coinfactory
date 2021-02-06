@@ -14,10 +14,10 @@ features:
   title: Our Core Features
   image: images/rig.jpg
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Powerful mining rate
+    icon: tf-ion-ios-rocket-outline
+    content: Our ming rigs have AMD 8GB graphic cards with a mining capacity of 20Mh/s
+      each
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
