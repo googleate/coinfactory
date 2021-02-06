@@ -6,7 +6,7 @@ discount_price = "1880"
 images = ["/images/rig.jpg"]
 price = "1980"
 sizes = []
-title = "Mining Rig 5 with 5 VGA 8GB"
+title = "Mining Rig with 5 VGA 8GB"
 
 +++
 The fourth generation of the Graphics Core Next architecture is the modern and future-proof foundation of Polaris GPUs. It offers power-saving solutions from Radeon Chill, native support for crucial next-generation API functions, and the latest display technologies such as HDR and Radeon FreeSync 2.
