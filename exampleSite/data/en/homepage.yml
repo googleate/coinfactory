@@ -32,7 +32,7 @@ features:
     content: Coin Factory production order is like a wallet vault but at a cheapest
       price and more benefits
   - title: Safe Payment
-    icon: tf-ion-ios-lock-closed-outline
+    icon: tf-ion-ios-body-outline
     content: Pay safely in our website through your Paypal or Stripe account
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
