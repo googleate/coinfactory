@@ -1,6 +1,5 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
-draft: false
----
+title: All our Available Products
+description: Graphic Cards and mining Online Shop
 
+---
