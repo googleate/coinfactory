@@ -28,7 +28,7 @@ features:
       this is your place.
   right_side:
   - title: Mining
-    icon: tf-ion-ios-diamond-outline
+    icon: tf-ion-ios-compass-outline
     content: We use NanoMiner for ETH and NiceHash  to solve the algorythms of Bitcoin.
       For rest of altcoins we exchange from ethereum or bitcoin according to best
       exchange fees.
