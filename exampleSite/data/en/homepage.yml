@@ -71,7 +71,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: Graphic Cards and Miners Shop
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
