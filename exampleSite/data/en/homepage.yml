@@ -15,13 +15,12 @@ features:
   image: images/rig.jpg
   left_side:
   - title: Powerful mining rate
-    icon: tf-ion-ios-rocket-outline
+    icon: tf-ion-ios-flash-outline
     content: Our ming rigs have AMD 8GB graphic cards with a mining capacity of 20Mh/s
       each
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Thermal Take cases for '
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
