@@ -29,7 +29,7 @@ features:
   right_side:
   - title: Coin Locker
     icon: tf-ion-ios-calendar-outline
-    content: Coin Factory production order is like a wallet holder but at a cheapest
+    content: Coin Factory production order is like a wallet vault but at a cheapest
       price and more benefits
   - title: Safe Payment
     icon: tf-ion-ios-lock-closed-outline
