@@ -33,7 +33,7 @@ features:
       For rest of altcoins we exchange from ethereum or bitcoin according to best
       exchange fees.
   - title: Safe Payment
-    icon: tf-ion-ios-wallet-outline
+    icon: tf-ion-ios-card
     content: Pay safely in our website through your Paypal or Stripe account
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
