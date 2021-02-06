@@ -2,12 +2,13 @@
 banner:
   enable: true
   title: Believe in Technology, Make the change
-  content: We solve algorythms to create crypto for you
+  content: Do you want 1 bitcoin? we can produce it. Pay the complete actual price
+    with 20% less and get it in 6 months or pay monthly with the prefixed price.
   image: images/coin.png
   button:
     enable: true
-    label: Products
-    link: products
+    label: Read More
+    link: blog
 features:
   enable: true
   title: Our Core Features
