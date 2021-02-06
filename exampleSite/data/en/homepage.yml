@@ -74,7 +74,7 @@ products:
   title: Graphic Cards and Miners Shop
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: images/fabricabitcoin.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
