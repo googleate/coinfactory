@@ -1,13 +1,12 @@
 +++
-colors = ["black"]
+colors = ["white"]
 date = 2019-10-17T05:22:16Z
-description = "Chipset AMD RX580"
-discount_price = "280"
-draft = true
-images = ["/images/sapphire-pulse-amd-radeon-rx-580-8gb-gddr5-1.jpg", "/images/saphire-graphic-card-rx580.jpg", "/images/saphire-rx580.jpg"]
-price = "375"
+description = "Mining Rig "
+discount_price = "1880"
+images = ["/images/rig.jpg"]
+price = "1980"
 sizes = []
-title = "Graphic Card Saphire Pulse 8Gb DDR5-(copy)"
+title = "Mining Rig 5 with 5 VGA 8GB"
 
 +++
 The fourth generation of the Graphics Core Next architecture is the modern and future-proof foundation of Polaris GPUs. It offers power-saving solutions from Radeon Chill, native support for crucial next-generation API functions, and the latest display technologies such as HDR and Radeon FreeSync 2.
