@@ -29,12 +29,12 @@ features:
   right_side:
   - title: Mining
     icon: tf-ion-ios-diamond-outline
-    content: We use Nano Miner for ETH, NiceHash for Bitcoin and for rest of altcoins
-      we exchange from ethereum or bitcoin according to best trading fees.
+    content: We use NanoMiner for ETH and NiceHash  to solve the algorythms of Bitcoin.
+      For rest of altcoins we exchange from ethereum or bitcoin according to best
+      exchange fees.
   - title: Safe Payment
-    icon: tf-ion-ios-logo-paypal
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    icon: tf-ion-ios-card-outline
+    content: Pay safely in our website through y
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
