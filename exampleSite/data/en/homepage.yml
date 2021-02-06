@@ -34,7 +34,7 @@ features:
       exchange fees.
   - title: Safe Payment
     icon: tf-ion-ios-wallet-outline
-    content: Pay safely in our website through y
+    content: Pay safely in our website through your Paypal or Stripe account
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
