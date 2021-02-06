@@ -27,11 +27,10 @@ features:
     content: We have our own graphic cards online shop if you are a gamer or a miner
       this is your place.
   right_side:
-  - title: Mining
+  - title: Coin Locker
     icon: tf-ion-ios-calendar-outline
-    content: We use NanoMiner for ETH and NiceHash  to solve the algorythms of Bitcoin.
-      For rest of altcoins we exchange from ethereum or bitcoin according to best
-      exchange fees.
+    content: Coin Factory production order is like a wallet holder but at a cheapest
+      price and more benefits
   - title: Safe Payment
     icon: tf-ion-ios-card-outline
     content: Pay safely in our website through your Paypal or Stripe account
