@@ -2,8 +2,8 @@
 title: Graphic Card Saphire Pulse 8Gb DDR5
 date: 2019-10-17T05:22:16+00:00
 images:
+- "/images/tarjeta-saphire-rx580.jpg"
 - "/images/sapphire-pulse-amd-radeon-rx-580-8gb-gddr5-1.jpg"
-- "/images/saphire-graphic-card-rx580.jpg"
 - "/images/saphire-rx580.jpg"
 description: Chipset AMD RX580
 price: "375"
