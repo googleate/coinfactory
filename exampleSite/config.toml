@@ -56,10 +56,10 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Googleate.es"
 contact_form_action = "#"
-currency = "$"
-description = "This is meta description"
+currency = "€"
+description = "Coin Factory is a Vault and mining services of crypto currency but we also have graphic cards and mining rigs onlineshop."
 logo = "images/logo.png"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
