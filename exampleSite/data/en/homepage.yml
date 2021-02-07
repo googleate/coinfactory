@@ -83,7 +83,7 @@ testimonial:
   testimonial_item:
   - name: Santiago Llera
     designation: Founder, Coin Factory
-    image: images/avater.png
+    image: "/images/avatar-santiago-llera.jpg"
     content: Coin Factory is the combination of different ideas related with crypto
       to make it simple and accessible to everyone.
   - name: Jonathon Andrew
