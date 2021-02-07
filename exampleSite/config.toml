@@ -39,11 +39,11 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
+name = "Shop"
 url = "products"
 weight = 2
 [[menu.main]]
-name = "Blog"
+name = "Factory"
 url = "blog"
 weight = 3
 [[menu.main]]
