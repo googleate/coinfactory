@@ -40,7 +40,7 @@ features:
       inventore?
 promo:
   enable: true
-  image: "/images/xfx 8gb.jpg"
+  image: "/images/xfx-8gb.jpg"
   title: AMD RX 580 8GB
   content: |-
     8GB 256-Bit GDDR5
