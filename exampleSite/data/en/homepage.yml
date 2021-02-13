@@ -40,12 +40,13 @@ features:
       inventore?
 promo:
   enable: true
-  image: "/images/graphic-card.png"
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: "/images/xfx 8gb.jpg"
+  title: AMD RX 580 8GB
+  content: |-
+    8GB 256-Bit GDDR5
+    Core Clock
+    True: 1366 MHz
+    OC+: 1386 MHz
 about_product:
   enable: true
   title: Why Choose Coin Factory
