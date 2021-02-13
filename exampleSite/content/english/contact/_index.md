@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: this is a meta description
+description: How to contact us
 office:
   title: Central Office
   mobile: "+34 663010971"
