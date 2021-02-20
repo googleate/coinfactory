@@ -1,6 +1,6 @@
 ---
-title: Graphic Card Saphire Pulse 8Gb DDR5
-date: 2019-10-17T05:22:16+00:00
+title: Graphic Card Saphire Pulse 8Gb DDR5 (Not available)
+date: 2019-10-17T05:22:16.000+00:00
 images:
 - "/images/sapphire-pulse-amd-radeon-rx-580-8gb-gddr5-1.jpg"
 - "/images/tarjeta-saphire-rx580.jpg"
