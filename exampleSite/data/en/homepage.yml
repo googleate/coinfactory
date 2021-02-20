@@ -12,7 +12,7 @@ banner:
 features:
   enable: true
   title: Our Core Features
-  image: images/rig.jpg
+  image: images/rig2.jpg
   left_side:
   - title: Powerful mining rate
     icon: tf-ion-ios-analytics-outline
