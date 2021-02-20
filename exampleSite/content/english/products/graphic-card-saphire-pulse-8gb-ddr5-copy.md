@@ -2,9 +2,9 @@
 colors = []
 date = 2019-10-17T05:22:16Z
 description = "Hastrate 240Mh/s"
-discount_price = "1880"
+discount_price = "3980"
 images = ["/images/rig-8gpu.jpg", "/images/rig-rx580-inside.webp", "/images/ic847-motherboard.jpg"]
-price = "1980"
+price = "4200"
 sizes = []
 title = "Mining Rig with 8 VGA 8GB "
 
