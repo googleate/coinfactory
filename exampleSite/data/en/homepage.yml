@@ -41,7 +41,7 @@ features:
 promo:
   enable: true
   image: "/images/elsa-rx-580.png"
-  title: AMD RX 580 8GB
+  title: AMD RX 580 8GB "ELSA"
   content: |-
     8GB 256-Bit GDDR5
     Core Clock
